@@ -3,6 +3,7 @@
 # Das Build-Verzeichnis mit den Binaries
 build/
 bin/
+doc/
 obj/
 !bin/classifiers
 
